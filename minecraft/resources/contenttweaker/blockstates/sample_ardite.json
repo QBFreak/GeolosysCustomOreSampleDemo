@@ -6,7 +6,7 @@
     "textures": {
       "particle": "minecraft:blocks/stone",
       "all": "tconstruct:blocks/ore_ardite",
-      "base": "minecraft:blocks/diamond_block"
+      "base": "minecraft:blocks/stone"
     }
   },
   "variants": {
