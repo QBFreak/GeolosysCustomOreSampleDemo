@@ -4,6 +4,8 @@
 surface. This is a demonstration of a set of [CraftTweaker](https://minecraft.curseforge.com/projects/crafttweaker) and [ContentTweaker](https://minecraft.curseforge.com/projects/contenttweaker)
 scripts to add ores with custom ore samples.
 
+![Custom ore sample for Cobalt](https://raw.githubusercontent.com/QBFreak/GeolosysCustomOreSampleDemo/master/minecraft/sample_cobalt.png)
+
 ## The ores
 
 This example uses [Tinkers' Construct](https://minecraft.curseforge.com/projects/tinkers-construct) Cobalt Ore and Ardite Ore. They are
