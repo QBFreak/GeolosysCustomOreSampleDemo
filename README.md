@@ -1,12 +1,12 @@
 # Geolosys Custom Ore Samples
 
-[Geolosys][https://minecraft.curseforge.com/projects/geolosys] is a cool Minecraft mod for ore generation. It includes samples on the
-surface. This is a demonstration of a set of [CraftTweaker][https://minecraft.curseforge.com/projects/crafttweaker] and [ContentTweaker][https://minecraft.curseforge.com/projects/contenttweaker]
+[https://minecraft.curseforge.com/projects/geolosys][Geolosys] is a cool Minecraft mod for ore generation. It includes samples on the
+surface. This is a demonstration of a set of [https://minecraft.curseforge.com/projects/crafttweaker][CraftTweaker] and [https://minecraft.curseforge.com/projects/contenttweaker][ContentTweaker]
 scripts to add ores with custom ore samples.
 
 ## The ores
 
-This example uses [Tinkers' Construct][https://minecraft.curseforge.com/projects/tinkers-construct] Cobalt Ore and Ardite Ore. They are
+This example uses [https://minecraft.curseforge.com/projects/tinkers-construct][Tinkers' Construct] Cobalt Ore and Ardite Ore. They are
 configured to generate in the overworld, so the sample textures use Stone
 as a base, instead of Netherrack. You may use any texture you wish.
 
@@ -47,7 +47,7 @@ second layer for textures with transparency.
 
 Part of another project. Vanilla-style textures for Geolosys, as well as
 overworld-style textures for the Tinkers' ores. The Geolosys textures were
-created by  and realeased as [Minecraftic Geolosys][https://minecraft.curseforge.com/projects/mod-ctm-minecraftic-geolosys]
+created by  and realeased as [https://minecraft.curseforge.com/projects/mod-ctm-minecraftic-geolosys][Minecraftic Geolosys]
 I removed the CTM, as I didn't care for it, and incorporated it with my
 Tinkers' textures. As for the name, it's intended to be a companion resoucepack
 to a modpack that's in development.
