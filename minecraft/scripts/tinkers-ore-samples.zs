@@ -69,17 +69,14 @@ function logCommand(message as string) as void {
 }
 
 function logInfo(message as string) as void {
-    // logger.logInfo("[" + logName + "] " + message);
     logCommand("   [INFO] " + message);
 }
 
 function logWarning(message as string) as void {
-    // logger.logWarning("[" + logName + "] " + message);
     logCommand("[WARNING] " + message);
 }
 
 function logError(message as string) as void {
-    // logger.logError("[" + logName + "] " + message);
     logCommand("  [ERROR] " + message);
 }
 
