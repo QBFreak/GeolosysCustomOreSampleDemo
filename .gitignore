@@ -1,0 +1,4 @@
+minecraft/mods/*.jar
+minecraft/libraries/*
+instance.cfg
+mmc-pack.json
